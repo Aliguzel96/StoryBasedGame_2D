@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee149608da133a41a78104c969d58d0, type: 3}
+  m_Name: A2
+  m_EditorClassIdentifier: 
+  storyText: "Do\u011Fru se\xE7imi yapt\u0131n.\r\nBa\u015F\u0131na \xE7ok b\xFCy\xFCk
+    bir bela\r\nalabilirdin. \u015Eimdi ko\u015Fuyorsun ve\r\nkar\u015F\u0131na bir
+    yol \xE7\u0131kt\u0131 bu yol ikiye\r\nayr\u0131l\u0131yor. Sol taraftaki yolda\r\nhavlayan
+    bir k\xF6pek var. Sa\u011F\r\ntarafta ise yerde yatan bir k\xF6pek\r\nvar. Hangisini
+    se\xE7eceksin ?\r\n1) Sa\u011F taraftaki yolu\r\n2) Sol taraftaki yolu\r\n3)
+    Hi\xE7bir yolu se\xE7meyip geriye\r\ngitme karar\u0131 ald\u0131n."
+  nextStates:
+  - {fileID: 11400000, guid: 56b0b58cf4a185c488dbd25af2bfdf8e, type: 2}
+  - {fileID: 11400000, guid: 87c8f14c0ec526d47b9b76b609003011, type: 2}
+  - {fileID: 11400000, guid: 2bc27ae536ba362448481e31a2371800, type: 2}

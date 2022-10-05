@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee149608da133a41a78104c969d58d0, type: 3}
+  m_Name: A221
+  m_EditorClassIdentifier: 
+  storyText: "Evet adadan kurtulmay\u0131\r\nba\u015Fard\u0131n. Bindi\u011Fin o
+    gemide ki\r\nya\u015Fl\u0131 bir kaptan sana yard\u0131m etti\r\nve seni ya\u015Fad\u0131\u011F\u0131n
+    \xFClkenin\r\nliman\u0131na ula\u015Ft\u0131rd\u0131. Art\u0131k\r\n\xF6zg\xFCrs\xFCn\n\nOyuna
+    yeniden ba\u015Flamak ister misin?\n1) EVET"
+  nextStates:
+  - {fileID: 11400000, guid: 45f021f2786cfe54cb6cdce9af99d49c, type: 2}

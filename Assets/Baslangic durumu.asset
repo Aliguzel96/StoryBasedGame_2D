@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bee149608da133a41a78104c969d58d0, type: 3}
+  m_Name: Baslangic durumu
+  m_EditorClassIdentifier: 
+  storyText: "\u015Eimdi bir adaya d\xFC\u015Ft\xFCn, ve bu\r\nadada 200 metre uzakta
+    bir\r\ninsan sana seslenerek;\r\n\" Hey oradaki adam\u0131za\r\nho\u015Fgeldin,
+    ben buran\u0131n\r\nyerlisiyim. Bizim geleneklerimize\r\ng\xF6re adaya ilk gelen
+    insandan bir\r\nhediye al\u0131n\u0131r. Hadi hediyeni\r\nvermek i\xE7in buraya
+    gel ve\r\nbenimle tan\u0131\u015F. Hem sana aday\u0131\r\ntan\u0131t\u0131r\u0131m.
+    Buradan \xE7\u0131k\u0131\u015F\r\nolmad\u0131\u011F\u0131n\u0131 zaten anlayacaks\u0131n.\r\nHadi
+    ne bekliyorsun buraya gel. \"\r\ndedi. Ne yapacaks\u0131n?\r\n1) Adam\u0131n
+    yan\u0131na hemen git.\r\n2) Hemen ko\u015Farak uzakla\u015F.\r"
+  nextStates:
+  - {fileID: 11400000, guid: aeea9518d5b23eb40a07ac3590500da4, type: 2}
+  - {fileID: 11400000, guid: 9a38301af671c964ca59cb896077e77f, type: 2}
